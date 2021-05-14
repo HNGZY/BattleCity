@@ -1,0 +1,7 @@
+C:\Users\18047\source\repos\Tank_BigWar_Server\Tank_BigWar_Server\bin\Debug\Tank_BigWar_Server.exe.config
+C:\Users\18047\source\repos\Tank_BigWar_Server\Tank_BigWar_Server\bin\Debug\Tank_BigWar_Server.exe
+C:\Users\18047\source\repos\Tank_BigWar_Server\Tank_BigWar_Server\bin\Debug\Tank_BigWar_Server.pdb
+C:\Users\18047\source\repos\Tank_BigWar_Server\Tank_BigWar_Server\obj\Debug\Tank_BigWar_Server.csprojAssemblyReference.cache
+C:\Users\18047\source\repos\Tank_BigWar_Server\Tank_BigWar_Server\obj\Debug\Tank_BigWar_Server.csproj.CoreCompileInputs.cache
+C:\Users\18047\source\repos\Tank_BigWar_Server\Tank_BigWar_Server\obj\Debug\Tank_BigWar_Server.exe
+C:\Users\18047\source\repos\Tank_BigWar_Server\Tank_BigWar_Server\obj\Debug\Tank_BigWar_Server.pdb
